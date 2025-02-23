@@ -1,0 +1,70 @@
+body {
+    background-image: url("	https://images.app.goo.gl/TZaPkoMLZJ4MTZFV8");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.labels {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 0.5rem;
+}
+
+.topleft {
+  position: absolute;
+  top: 4px;
+  left: 8px;
+  font-sisizeze: 7px;
+}
+
+
+.topright {
+  position: absolute;
+  top: 4px;
+  right: 8px;
+  font-size: 9px;
+  border-radius:7px;
+  border: 1px solid black;
+  background-color: lightblue;
+  padding-top: 3px;
+  padding-right: 3px;
+  padding-bottom: 2px;
+  padding-left: 8px;
+}
+  
+.center {
+  position: absolute;
+  top: 30%;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+}
+nav { 
+	position:relative;
+	left:100;
+	}
+.values {
+    display: flex;
+    justify-content: space-around; 
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+h4 {
+	font-family:serif;
+	display:flex-start;
+	color:grey;
+	
+	}
+		
+.label {
+    width: 80px;
+    text-align: center;
+}
+
+.value {
+    width: 80px;
+    text-align: center;
+}
+	
